@@ -1,0 +1,818 @@
+<resources>
+
+    <string name="ticket_string">
+    <![CDATA[
+    Instead of printing off thousands of multi-page Convention programs and ordering the same number
+    of paper tickets, we developed this app to conserve paper and allow you to have everything you
+    need to know about Convention Weekend 2020 at your fingertips.
+    <p>
+    All Convention ticket holders received an email from our team with their digital ticket
+    information. Android users can will use that email as their ticket into Convention. Please have
+    the email up and ready for scanning at the door. Our team will be checking IDs at the door,
+    those without IDs will be turned away. Purchased a ticket but didn\’t get an email? Contact us.
+    <p>
+    Ticket holders are encouraged to use the app as their event program for the weekend. A limited
+    number of printed versions of the weekend program will be available upon request.
+    ]]>
+
+    </string>
+
+    <string name="general_info_events_link"><a href="https://mockcon.com/documents/information.html">General Information</a></string>
+
+    <string name="platform_rules_events_link"><a href="https://mockcon.com/documents/platformandrules.html">Platform and Rules</a></string>
+
+    <string name="app_name">MockCon</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="about_string">
+    <![CDATA[
+    The Washington and Lee University Mock Convention is a simulated presidential nominating convention held every four years by the students of W&L.
+    Its goal is to predict who the party out of power in the White House will nominate to run for President of the United States.
+    <p>
+    We got our start in 1908 when presidential candidate Williams Jennings Bryan announced a visit to Lexington, VA, sparking interest on W&L’s campus.
+    The Forum, the campus’ largest political club at the time, hosted a replica of the upcoming Democratic Convention to honor the visit of Bryan and to
+    heighten the excitement of the student body. The accurate prediction of Bryan as the nominee cemented Mock Convention as one of the core features of
+    the Washington and Lee experience.
+    <p>
+    Over 100 years later, the students of Washington and Lee University have gathered to create one of the most ambitious, non-partisan student political
+    research projects in the country. With the stage set for an intense contest for the 2020 Democratic nomination, we invite you to join us as, for the
+    27th time, we celebrate the complexity and importance of the electoral process.
+    ]]>
+
+    </string>
+
+    <string name="convention_chronicles_link"><a href="https://www.mockconvention.com/convention-chronicles">Convention Chronicles</a></string>
+
+    <string name="newsroom_link"><a href="https://www.mockconvention.com/newsroom">Newsroom</a></string>
+
+    <string name="team_name">MockCon</string>
+
+    <string name="team_action_settings">Settings</string>
+
+    <string name="team_string">
+    <![CDATA[
+    Washington and Lee Mock Convention is a nationally recognized and respected organization. Meet the students who are working hard to keep it that way.
+    ]]>
+    </string>
+
+
+    <string name="mock_con_departments"><a href="https://www.mockconvention.com/our-team">Meet the MockCon Departments</a></string>
+
+
+
+    <string name="memorabilia_name">MockCon</string>
+
+    <string name="memorabilia_action_settings">Settings</string>
+
+    <string name="memorabilia_string">
+    <![CDATA[
+    Our Memorabilia & Sales Team works hard to further the Mock Convention image beyond just politics. The team joins business and art to create and design exciting memorabilia to help
+    the convention live beyond 2020. Explore our catalog below and take home a piece of Mock Con.
+    ]]>
+    </string>
+
+
+    <string name="memorabilia_link"><a href="https://www.mockconvention.com/store">Visit the MockCon Store</a></string>
+
+
+
+    <string name="convention_layout">For information regarding parking, the convention layout and seating, shuttles, safety and security, and more, please visit the following link: <a href="https://mockcon.com/documents/information.html">General Information</a></string>
+
+    <string name="platform_rules_link">For information about the Mock Convention platform and rules, please visit the following link: <a href="https://mockcon.com/documents/platformandrules.html">Platform and Rules</a></string>
+
+
+    <string name="contact_name">MockCon</string>
+
+    <string name="contact_action_settings">Settings</string>
+
+    <string name="contact_string">
+    <![CDATA[
+    Please contact Mock Convention below or via mockcon@mail.wlu.edu concerning any inquiries, comments, or suggestions - whether
+    general or specific. We\'re excited to get in touch.
+    ]]>
+    </string>
+
+
+    <string name="contact_link"><a href="https://www.mockconvention.com/contact">Contact the Convention Team</a></string>
+
+
+
+    <string name="developer_contact_name">MockCon</string>
+
+    <string name="developer_contact_action_settings">Settings</string>
+
+    <string name="developer_contact_string">
+    <![CDATA[
+    Have a question about the app or want to give feedback on your experience? Contact our App Developer team via
+    mockconappdevelopers@mail.wlu.edu.
+    ]]>
+    </string>
+
+
+    <string name="developer_contact_link"><a href="https://mockcon.com/">Contact the App Developer Team</a></string>
+
+    <string name="trevor_noah_blurb">
+        <![CDATA[
+        <b>Date: Session Three</b>
+        <p>
+        <b>Location: Duchossois Tennis Center</b>
+        <p>
+        Trevor Noah is the host of the Emmy® and Peabody® Award-winning "The Daily Show" on Comedy
+        Central.  The "Daily Show with Trevor Noah" recently received two 2019 Primetime Emmy
+        nominations, including Outstanding Variety Talk Series and Outstanding Interactive Program.
+        <p>
+        Trevor has written, produced, and starred in 8 comedy specials, most recently including
+        "Son of Patricia" on Netflix.  Trevor\'s success has also spanned to sold out shows over 5
+        continents.  Trevor is currently crossing North America on his first ever arena outing with
+        the "Loud & Clear Tour 2019."  In April 2019, Trevor launched his new podcast series "On
+        Second Thought: The Trevor Noah Podcast" exclusively on Luminary.
+        <p>
+        Trevor Noah is the author of the #1 New York Times bestseller "Born a Crime: Stories from a
+        South African Childhood" and its young readers adaptation "It\'s Trevor Noah: Born a Crime:
+        Stories from a South African Childhood," which also debuted as a New York Times bestseller.
+        The book received the Thurber Prize for American Humor and two NAACP Image Awards, one for
+        Outstanding Literary Work by a Debut Author and another for Outstanding Literary Work in the
+        Biography/Auto-Biography category.  The Audible edition of "Born a Crime," performed by Trevor,
+        remains one of the top-selling, highest-rated, and most-commented-on Audible performances
+        of all time.  To date, "Born a Crime" has sold over 1 million copies across all formats.
+        <p>
+        Trevor\'s production company, Day Zero Productions, recently partnered with Viacom and has
+        several projects in development, including the feature film adaptation of Born a Crime
+        starring Academy Award winner Lupita Nyong\'o, and a half-hour comedy with Roy Wood Jr. and
+        Aaron McGruder at Comedy Central.
+        <p>
+        In April 2018, Noah launched the Trevor Noah Foundation, a youth development initiative that
+        enhances youth preparedness for higher education or entry into the workforce.
+        ]]>
+    </string>
+
+    <string name="tara_mcgowan_blurb">
+        <![CDATA[
+        <b>Date: Politics & Media Panel</b>
+        <p>
+        <b>Location: Keller Theater - Lenfest</b>
+        <p>
+        Tara McGowan is the Founder and CEO of progressive group ACRONYM, which recently launched a
+        $75 million digital effort to counter Trump online. A longtime Democratic strategist for
+        groups like Priorities USA, NextGen, and the 2012 Obama campaign, Tara McGowan has quickly
+        become the leading voice on digital politics on the Left. She\’s regularly featured in the
+        New York Times, and other major print outlets, and she has spoken about the 2020 digital
+        race for the White House with on NPR and CNN.
+        ]]>
+    </string>
+
+    <string name="symone_sanders_blurb">
+        <![CDATA[
+        <b>Date: Session One</b>
+        <p>
+            <b>Location: Duchossois Tennis Center</b>
+        <p>
+        A champion for women, Symone D. Sanders is a strategist, communications consultant,
+        CNN Political Commentator and served as a Spring 2018 Resident Fellow at Harvard’s Institute
+        of Politics at the Kennedy School. Symone rose to prominence during her tenure as the
+        National Press Secretary for U.S. Sen. Bernie Sanders 2016 presidential campaign. At 25,
+        Symone demonstrated an uncanny command of the issues earning her a place in history as the
+        youngest presidential press secretary on record and a spot on Rolling Stone Magazine\’s
+        list of 16 young Americans shaping the 2016 election.
+        <p>
+        However, Symone was not new to presidential politics. When she was 16, she introduced former
+        President Bill Clinton at a luncheon in Omaha, Nebraska. Following her remarks, President
+        Clinton said, “Symone spoke so well I really hate to follow her.” President Clinton went on
+        to write about Symone in his book, Giving: How Each of Us Can Change the World.
+        <p>
+        Now, Symone draws from her experience on the national stage to provide perceptive analysis
+        on political and social issues. Her lively presentations challenge the conventional wisdom
+        that strong communities are only defined by what we have in common. Instead, she outlines
+        the way our differences contribute to effective social movements.
+        <p>
+        Symone has been featured on NPR, Fox News, MSNBC, NBC, BET, TV One and CNN. She has been
+        profiled in the Washington Post, the New Yorker, ESSENCE Magazine and ELLE.  Symone now is
+        Senior Advisor for Joe Biden\'s 2020 presidential campaign and currently Principal of the 360
+        Group, LLC. where she provides strategic communications guidance to organizations, businesses,
+        individuals, campaigns and candidates and helps clients find sound solutions to tough
+        political and social problems. Symone has also been selected to serve as one of USC
+        Dornsife\'s 2019 Fellows.
+
+        ]]>
+    </string>
+
+    <string name="patti_solis_doyle_blurb">
+        <![CDATA[
+        <b>Date: Session Two</b>
+        <p>
+            <b>Location: Duchossois Tennis Center</b>
+        <p>
+        Patti Solis Doyle is a nationally recognized political organizer, campaign strategist and
+        CNN political commentator. She speaks regularly on the rise of women and minorities in
+        politics, presidential campaigns and issues affecting Hispanic Americans.
+        <p>
+        She is president of Solis Strategies, a communications firm serving non-profits, NGOs and
+        corporations.
+        <p>
+        Solis Doyle also co-founded Vendor Assistance Program, LLC (VAP), a Chicago-based financial
+        services firm. VAP helps state governments finance and accelerate payments to their vendors,
+        so those vendors can fund their operations, manage their cash flow, recognize revenue
+        earlier, expand their businesses and create more local jobs. VAP recently raised $340 million
+        for its program with the state of Illinois. Her work with VAP, governors and other state
+        officials follows more than 20 years in politics, presidential campaigns and public service.
+        She began her career working on Richard Daley\’s campaign for mayor of Chicago and later
+        worked at Chicago City Hall. In 1991, she was among the first to join then-Governor Bill
+        Clinton\’s presidential campaign. She served as a senior advisor to Hillary Clinton
+        throughout that campaign and two terms in the White House. In 2000, Solis Doyle served as
+        chief of staff to Clinton\’s first Senate campaign. She later managed Senator Clinton\’s
+        political operations, PAC and 2006 re-election campaign. As campaign manager of Clinton\’s
+        presidential bid (from January 2007 through February 2008), Solis Doyle was the first
+        Hispanic woman to lead a presidential campaign.
+        <p>
+        During the 2008 general election, Solis Doyle joined the Obama for America campaign as chief
+        of staff for vice presidential operations. In this role, she built a national team of policy,
+        communications, political and field operatives in advance of the nominee\’s selection.
+        She later managed day-to-day operations for vice presidential nominee Joe Biden. During the
+        2012 presidential election, Solis Doyle served as an advisor to the Obama-Biden campaign.
+        <p>
+        In addition to her work with VAP, Solis Doyle works with Hispanic service organizations and
+        student organizations across the U.S.
+        <p>
+        Hispanic magazine honored Solis Doyle with the Latinas of Excellence Award for her
+        accomplishments in the area of government, politics and civil leadership. She also received
+        the “Siempre Inspiran Award” from Siempre Mujer magazine, honoring remarkable Latinas whose
+        achievements and contributions to their communities are helping shape the future of Hispanic
+        women in this country. Hispanic Business magazine named her one of America\’s “100 Most
+        Influential Hispanics.”
+        <p>
+        Solis Doyle received her Bachelor of Arts degree in communication from Northwestern
+        University. She currently resides in Washington, DC, with her husband and two children.
+        ]]>
+    </string>
+
+    <string name="nadine_strossen_blurb">
+        <![CDATA[
+        <b>Date: Session Two</b>
+        <p>
+            <b>Location: Duchossois Tennis Center</b>
+        <p>
+        Nadine Strossen, the John Marshall Harlan II Professor of Law at New York Law School, is a
+        leading expert in constitutional law and human rights. She is the immediate past President
+        of the American Civil Liberties Union (1991-2008), and now serves on the advisory boards of
+        EPIC (the Electronic Privacy Information Center), FIRE (the Foundation for Individual Rights
+        in Education), and Heterodox Academy. When Strossen stepped down as ACLU President, three
+        ideologically diverse) Supreme Court Justices participated in her farewell/tribute luncheon:
+        Ruth Bader Ginsburg, Antonin Scalia, and David Souter.
+        <p>
+        The National Law Journal has named Strossen one of America\’s “100 Most Influential Lawyers,”
+        and several other publications have named her one of the country\’s most influential women.
+        Her many honorary degrees and awards include the American Bar Association\’s prestigious
+        Margaret Brent Women Lawyers of Achievement Award (2017).
+        <p>
+        Strossen has made thousands of public presentations before diverse audiences around the world,
+        including on more than 500 campuses.  A frequent media commentator, she has published widely
+        in both academic and general interest publications.  Her 2018 book, HATE:  Why We Should
+        Resist it With Free Speech, Not Censorship, has earned praise from ideologically diverse
+        experts, including progressive Harvard University Professor Cornel West and conservative
+        Princeton University Professor Robert George. HATE was selected by Washington University
+        (in St. Louis) as its 2019 “Common Read” for all incoming students.
+        Her earlier book, Defending Pornography: Free Speech, Sex, and the Fight for Women\’s Rights,
+        was named a New York Times “notable book” of 1995.
+        ]]>
+    </string>
+
+    <string name="mike_allen_blurb">
+        <![CDATA[
+        <b>Date: Politics & Media Panel</b>
+        <p>
+            <b>Location: Keller Theater - Lenfest</b>
+        <p>
+        Mike Allen is one of Washington\’s most influential and well-connected journalists. He is
+        the co-founder and executive editor of Axios, a company delivering news and insights on
+        politics, business, media, and tech. The company, whose name means “worthy” in Greek,
+        specializes in high-quality news and analysis easily shared among the country\’s
+        influential readers and across social platforms.
+        <p>
+        In addition to starting Axios, Allen was a co-founder at POLITICO, the digital media
+        company that upended and revolutionized political and policy journalism in Washington, New
+        York, and Europe. He not only reported on but also drove the day\’s conversations in and
+        around the Beltway. His sharp journalistic experience and coveted insider status make him an
+        ideal choice to discuss the latest political happenings. In presentations, he offers his
+        non-partisan, energetic and up-to-the-minute insider perspective on the political issues of
+        the day, the Trump administration, the Republican Congress, and building a business in an
+        unsteady economy. Exclusively represented by Leading Authorities, Inc. speakers bureau, he
+        has been praised for his dedication, passion, and unmatched ability to give a political story
+        dimension and context.
+        <p>
+        Building A Political Powerhouse: In 2006, Allen joined POLITICO and sought to carve out a
+        niche in the marketplace by focusing on giving readers one solid take-away from select stories.
+        He served as the chief White House correspondent and was the founding father of the successful
+        daily email tip-sheet Playbook. It quickly became the early-morning must read source for
+        movers and shakers in politics and media. The New York Times called Allen “The Man the White
+        House Wakes Up To,” and Vanity Fair said, “Reading Playbook is as close as you can come on a
+        Washington morning to knowing everything.”
+        <p> Award-Winning Political Coverage: TIME magazine named Allen one of its top 140 Twitter
+        feeds, calling him “the Virgil of the beltway, leading the rest of us hapless Dantes through
+        the inferno of America\’s political universe.” Vanity Fair named him to its 2011 (#39) and
+        2012 (#19) “Top 50 New Establishment and Powers That Be” lists, and Allen also won the White
+        House Correspondents’ Association\’s Merriman Smith Memorial Award for “Outstanding
+        presidential coverage on deadline” in 2004.
+        <p>
+        Allen is also the creator of the daily newsletter, Morning Money, which gives readers insight
+        into the intersection of Washington and Wall Street. He is the co-author of two e-books
+        focusing on the 2012 presidential campaign, Politico Playbook 2012: The Right Fights Back
+        and Inside the Circus: Romney, Santorum and the GOP Race.
+        ]]>
+    </string>
+
+    <string name="andrew_gillum_blurb">
+        <![CDATA[
+        <b>Date: Session Four</b>
+        <p>
+            <b>Location: Duchossois Tennis Center</b>
+        <p>
+        A champion for everyday people, Andrew Gillum inspired millions across Florida and the nation
+        in 2018. He surged past four better-funded primary candidates to a history-making victory as
+        the Florida Democratic Party\'s first African-American nominee for governor.
+        <p>
+        A lifelong public servant, Andrew Gillum is recognized across Florida and the nation as a
+        bold and inspirational leader. The former Mayor of Tallahassee and 2018 Florida Democratic
+        gubernatorial nominee, Gillum brought Floridians together in pursuit of fundamental human
+        rights — the right to a well-paying job; the right to a good education; the right to quality
+        health care; the right not to live in fear of gun violence in our schools or our streets.
+        The only Democratic candidate for governor in Florida this century who was not a millionaire,
+        he won the hearts and minds of millions.
+        <p>
+        Above all, Andrew Gillum shows us what fearless leadership looks like.
+        <p>
+        Gillum\’s passion to fight for everyday people comes from his own life\’s journey. The son
+        of a school bus driver and a construction worker, Andrew Gillum knows what it\'s like for a
+        family to struggle, financially, and to have to choose between paying the water bill or the
+        heating bill. The first in his family to graduate from high school and college, he knows
+        first-hand how strong values, schools, and community can set an individual on a different course.
+        <p>
+        More than two million new midterm voters turned out in Florida in 2018 — shattering all
+        records. The movement Mayor Gillum inspired is, without a doubt, responsible.
+        <p>
+        Andrew Gillum\’s efforts to help lift his fellow Floridians stretch back more than 15 years.
+        Elected to the Tallahassee City Commission at age 23, he is youngest person elected in the
+        city\’s history. At age 21, while still a student at Florida A&M University, he led a
+        thousand students to protest Gov. Jeb Bush\'s attempt to end affirmative action. As a City
+        Commissioner, he championed restorative justice programs to rehabilitate and educate offenders.
+        He also created public-private partnerships to secure funding for computers and internet
+        access for middle school students. As Mayor, Gillum spearheaded the construction of a
+        20-megawatt solar farm, giving thousands of Tallahassee residents the ability to rely on
+        clean, renewable energy for the first time. Recognizing Mayor Gillum\’s commitment to
+        innovation and technology, President Obama named Tallahassee one of just 50 TechHire cities
+        in the nation.
+        <p>
+        Dr. Martin Luther King, Jr. once said, “Life\’s most persistent and urgent question is,
+        \'What are you doing for others?\’” Andrew Gillum hears that call every day. And every day he
+        works to answer it, dedicating his time, his talent, and his limitless passion into lifting
+        up his fellow Americans.
+        <p>
+        Following his historic run for governor, Andrew Gillum was honored as one of the EBONY Power
+        100 and named a 2019 Resident Fellow at the Institute of Politics (IOP) at Harvard Kennedy
+        School. In January of 2019, Gillum joined CNN as a Political Commentator. Gillum resides in
+        Tallahassee, Florida, with his wife, R. Jai, and their three children — Jackson, Caroline
+        and Davis.
+        ]]>
+    </string>
+
+    <string name="donna_brazille_blurb">
+        <![CDATA[
+        <b>Date: Session Three</b>
+        <p>
+            <b>Location: Duchossois Tennis Center</b>
+        <p>
+        Veteran political strategist Donna Brazile is the former interim chair of the Democratic
+        National Committee (DNC), the author of the New York Times bestseller Hacks: The Inside
+        Story of the Break-ins and Breakdowns That Put Donald Trump in the White House and the
+        2004 best-selling memoir Cooking with Grease: Stirring the Pots in American Politics. She
+        is a co-author of For Colored Girls Who Have Considered Politics, which won the 2019 NAACP
+        Image Award for Outstanding Literary Work, Nonfiction.
+        <p>
+        Ms. Brazile has devoted her life to working for progressive change, responsible governance,
+        and the advancement of all people in a society that is fair and equitable.  Brazile first
+        got invovled in politics at the age of nine when she worked to elect a City Council
+        candidate who had promised to build a playground in her neighborhood; the candidate won, the
+        playground was built, and a lifelong passion for political progress was ignited.  Brazile
+        has worked on every major presidential campaign since 1976 and in 2000 Ms. Brazile became the
+        first African American woman to serve as the manager of a major party presidential campaign,
+        running the campaign of former Vice President Al Gore.
+        <p>
+        Ms. Brazile loves working with young people, encouraging them to vote, to run for office, and
+        to work within the system to strengthen it.  She has lectured at over 200 colleges and
+        universities across the country on such topics as "Inspiring Civility in American Politics,"
+        "Race Relations in the Age of Obama," "Why Diversity Matters," and "Women in American Politics."
+        In 2013, Ms. Brazile was appointed by President Obama to serve on the J. William Fulbright
+        Foreign Scholarship Board. She is also the proud recipient of more than ten honorary doctorate
+        degrees from major colleges and universities, including her alma mater Louisiana State
+        University. In October 2017, Ms. Brazile was the recipient of the W.E.B Du Bois Medal,
+        Harvard\’s highest honor in African American studies.  Brazile has served as an adjunct
+        professor at Georgetown University since 2002 and spent the fall of 2017 serving as a Joan
+        Shorenstein fellow in Media, Politics and Public Policy at the Harvard Kennedy School.
+        Howard University has appointed Ms. Brazile as the Gwendolyn S. and Colbert I. King Endowed
+        Chair in Public Policy for two consecutive academic years.  In this capacity, she is
+        responsible for developing and hosting a lecture series to engage the Howard community on
+        several subjects, including politics, voting, criminal justice reform and civility.
+        <p>
+        O, The Oprah Magazine, chose Ms. Brazile as one of its 20 “remarkable visionaries” for the
+        magazine\’s first-ever O Power List. In addition, she was named among the 100 Most Powerful
+        Women by Washingtonian magazine, Top 50 Women in America by Essence magazine, and received
+        the Congressional Black Caucus Foundation\’s highest award for political achievement. In
+        2016, Ms. Brazile was awarded Wonk of the Year from the Kennedy Political Union at American
+        University.  In March 2018, Black Enterprise awarded Ms. Brazile with the Barbara Graves
+        Legacy Award.
+        <p>
+        Ms. Brazile has worked passionately on behalf of her beloved hometown of New Orleans. In the
+        aftermath of the two catastrophic hurricanes that devastated the Gulf region, Ms. Brazile
+        was appointed by former Governor Kathleen Blanco to serve on the Louisiana Recovery Board to
+        work for the rebuilding of the state and to advocate for the Gulf recovery on the national
+        stage. Ms. Brazile was also appointed by New Orleans Mayor Mitch Landrieu to serve on the
+        Tricentennial Commission.
+        <p>
+        Ms. Brazile is a contributor to Fox News and was formerly a contributor to ABC News and CNN.
+        Ms. Brazile was the recipient of a Daytime Emmy Award for Outstanding Daytime Program,
+        Good Morning America (2016-2017) in connection with her work with ABC.  She has also been a
+        syndicated newspaper columnist for Universal U\’Click and a prolific writer with articles
+        appearing in nearly every major newspaper in the nation. She moonlights as an actress and is
+        especially honored to have made three cameo appearances on CBS\’s The Good Wife, and two
+        cameo appearances on Netflix\’s series House of Cards. She most recently appeared on BET\'s
+        Being Mary Jane. Ask her and she\’ll tell you that acting, after all, is the key to success
+        in politics.
+        <p>
+        Ms. Brazile is the founder and director of Brazile & Associates LLC, a general consulting,
+        grassroots advocacy, and training firm based in Washington, DC.
+        ]]>
+    </string>
+
+    <string name="cameron_kasky_blurb">
+        <![CDATA[
+        <b>Date: Session Three</b>
+        <p>
+            <b>Location: Duchossois Tennis Center</b>
+        <p>
+        On February 14, 2018, the lives of the students of Marjory Stoneman Douglas High School were
+        forever changed when a lone gunman committed the deadliest high school shooting in United
+        States history, killing 17 students and staff members and injuring 17 more. In the wake of
+        the tragedy, Cameron Kasky and his fellow classmates recognized that they would not be the
+        last Americans to have the worlds shattered, and that the gun violence epidemic was an issue
+        of national safety. From that day forward, Kasky and other MSD students have implored legislators
+        and citizens alike to answer the call to protect our nation\’s children. In an interview
+        with Anderson Cooper, he bluntly stated that "my generation won\'t stand for this.”
+        <p>
+        In the days following the shooting, Kasky and several of the other survivors founded the
+        #NeverAgain gun-control movement. They subsequently organized March For Our Lives, which
+        would become one of the largest public demonstrations in American history with over 1 million
+        people filling the streets of Washington, D.C. He and his cadre of classmates have traveled
+        to over 70 cities in more than 20 states around the country on the “Road to Change” tour to
+        advocate for gun control and promote youth engagement in political activism. Kasky has made
+        regular appearances across several media outlets, using his social media channels to keep
+        the issue of gun control in the national conversation and share the life of a young American
+        activist standing tall in the face of fear.
+        <p>
+        A former student of Marjory Stoneman Douglas High School in Parkland, Florida, Cameron Kasky
+        couples lessons from the classroom with real world experiences in civics, politics and media.
+        The tragic Parkland shooting changed the trajectory of Cameron\’s life from talented student
+        to nationally-recognized activist. His hopeful response in the face of national tragedy has
+        made him a voice for his generation, issuing a wake up call to those in positions of authority.
+        It catapulted him onto the national political stage, where he speaks to all who will listen
+        about the mechanisms of change and the tools of social justice.
+        <p>
+        Topping Fast Company\’s list of the 100 Most Creative People for 2018, Kasky has appeared
+        across multiple media outlets, including CNN, Fox News, The New Yorker, and TIME Magazine,
+        where he and several other MSD students appeared on the March 2018 cover as part of a story
+        entitled “The School Shooting Generation Has Had Enough.” He also submitted an Op-Ed for CNN,
+        describing the events of the massacre and his reaction to it.
+        ]]>
+    </string>
+
+    <string name="errin_haines_blurb">
+        <![CDATA[
+        <b>Date: Politics & Media Panel</b>
+        <p>
+            <b>Location: Keller Theater - Lenfest</b>
+        <p>
+        Errin Haines is editor-at-large at The 19th, a nonprofit newsroom covering politics and
+        centering women. Haines is an award-winning journalist whose previous experience includes
+        reporting at The Associated Press, The Washington Post, The Orlando Sentinel and The Los
+        Angeles Times.
+        <p>
+        Currently, Errin is focused on covering the intersections of race, gender and the 2020
+        election. Her insightful reporting has focused on themes including the black electorate, the
+        diversity of the 2020 Democratic field and how race and gender are playing out on the campaign
+        trail. She is a frequent commentator on the election, appearing on news outlets such as CNN,
+        MSNBC, CBS and NPR.
+        <p>
+        Errin\’s political coverage was also the topic of her Fall 2019 Ferris professorship at
+        Princeton University, where she taught a class on the crucial role of black women in the
+        2020 election. She is an Atlanta native and based in Philadelphia.
+        ]]>
+    </string>
+
+    <string name="joe_donnelly_blurb">
+        <![CDATA[
+        <b>Date: Session one</b>
+        <p>
+            <b>Location: Duchossois Tennis Center</b>
+        <p>
+        Joe Donnelly served on Capitol Hill for 12 years, including one term as U.S. Senator and
+        three terms as a U.S. Representative. Joe advises clients in the financial services, defense
+        and health care industries on a host of public policy and government relations issues.
+        <p>
+        While serving in the Senate, Joe served on a number of committees, including the Banking,
+        Housing, and Urban Affairs Committee, where he was the Ranking Member of the National Security
+        and International Trade and Finance Subcommittee; the Committee on Agriculture, Nutrition and
+        Forestry, where he was the Ranking Member of the Commodities, Markets, Trade and Risk Management
+        Subcommittee; and the Armed Services Committee, where he was the Ranking Member of the Strategic
+        Forces Subcomitteee. He also served on the Special Committee on Aging.
+        <p>
+        His House tenure included service on the Financial Services and Veterans\’ Affairs committees.
+        He was the Ranking Member on the Veterans\’ Affairs subcommittee on Oversight and Investigations.
+        ]]>
+    </string>
+
+    <string name="jim_acosta_blurb">
+        <![CDATA[
+        <b>Date: Politics & Media Panel</b>
+        <p>
+            <b>Location: Keller Theater - Lenfest</b>
+        <p>
+        Jim Acosta is CNN chief White House correspondent, currently covering the Trump administration
+        nd previously covered the Obama administration from the White House and around the world. He
+        regularly covers presidential press conferences, visits by heads of states, and issues impacting
+        the Executive Branch of the federal government. In addition, Acosta reported from the 2016
+        campaign trail following Republican presidential candidate Donald Trump.
+        <p>
+        On June 11, 2019, HarperCollins released The Enemy of The People, an explosive, first-hand
+        account of the dangers Acosta has faced reporting on the current White House while fighting
+        on the front lines in President Trump\’s war on truth. In Mr. Trump\’s campaign against what
+        he calls “Fake News,” the CNN Chief White House Correspondent is public enemy number one.
+        Acosta presents a revealing examina- tion of bureaucratic dysfunction, deception, and the
+        unprecedented threat the rhetoric Mr. Trump is directing poses to our democracy. When the
+        leader of the free world incites hate and violence, Acosta doesn\’t back down, urging his
+        fellow citizens to do the same.
+        <p>
+        Acosta is based in the network\'s Washington, D.C., bureau and serves as a substitute anchor
+        for the network across a variety of CNN programs. Previously, Acosta was national political
+        correspondent throughout CNN\'s \'America\'s Choice 2012\' election coverage, embedded with
+        the Romney presidential campaign as the lead correspondent. He traveled with the GOP
+        presidential candidate to key battle- ground states and to the U.K., Israel, and Poland,
+        covering the latest campaign developments. Acosta sat down with Mitt Romney for two one-on-one
+        interviews, breaking several political stories and presidential debate coverage. In addition,
+        he covered both of President Barack Obama\'s inaugurations and contributed to the network\'s
+        mid-term election coverage.
+        <p>
+        In 2009, when the Obama administration lifted some restrictions on American travel to Cuba,
+        Acosta reported from Havana, Cuba, on the effects of the policy change and on the post-Cold
+        War relationship of the United States and Cuba. During the 2008 presidential election, Acosta
+        covered the campaigns of then-Sen. Hillary Clinton, Sen. John McCain and then-Sen. Barack Obama,
+        frequently contributing as co-anchor on CNN\'s weekend political program, Ballot Bowl. During
+        his time with CNN, Acosta has covered several breaking news stories, including the tragedy at
+        Virginia Tech and the Gulf Coast during the oil spill crisis.
+        <p>
+        Before joining CNN in March 2007, Acosta was a CBS News correspondent since February 2003.
+        Origi- nally based in New York, he later relocated to the CBS bureau in Atlanta. He contributed
+        primarily to the CBS Evening News and has covered stories including the Iraq war from Baghdad,
+        the 2004 presidential campaign of then-Sen. John Kerry, Hurricane Katrina, and the blackout
+        of 2003 that impacted major cities in the Northeast U.S.
+        <p>
+        Previously, he was a correspondent for CBS Newspath, the network\'s 24-hour news service,
+        from 2001-2003 and was based in Dallas and Chicago during that time. Acosta covered the
+        Pennsylvania miner rescue, the Washington, D.C.-area sniper story and the Sept. 11 terrorist
+        attacks, among other stories.
+        <p>
+        Prior to CBS Newspath, he was a reporter and substitute anchor for WBBM-TV, the CBS-owned
+        station in Chicago from 2000 to 2001; a reporter for KTVT-TV, the CBS-owned station in Dallas,
+        from 1998 to 2000 and a reporter and substitute anchor for WBIR-TV in Knoxville, Tenn., from
+        1995 to 1998. He began his journalism career with WMAL-AM radio in Washington, before making
+        the transition to television.
+        <p>
+        Acosta graduated cum laude from James Madison University with a bachelor\'s degree in mass
+        communications and a minor in political science.
+        ]]>
+    </string>
+
+    <string name="bill_roberts_blurb">
+        <![CDATA[
+        <b>Date: Politics & Media Panel</b>
+        <p>
+            <b>Location: Keller Theater - Lenfest</b>
+        <p>
+        William Roberts is a senior producer for Al Jazeera in Washington, DC, and covered the
+        impeachment of President Trump for the global news organization\’s website. Roberts is
+        veteran Washington journalist who has written about national politics since 1994 for
+        Knight-Ridder, The Economist Group, Bloomberg and Al Jazeera. He was in the US Capitol on
+        September 11, 2001 for Bloomberg and covered the decisions that followed in Congress, the
+        White House and the Pentagon during the presidency of George W. Bush. Prior to covering
+        Washington, he was an award-winning business journalist for American City Business Journals
+        in Philadelphia and New York for ten years. He is a 1983 graduate of Washington and Lee
+        University with a BA in Journalism. He lives in Alexandria, Va.
+        ]]>
+    </string>
+
+
+    <string name="parade_blurb">
+        <![CDATA[
+        <b>Date:</b> Feb. 14, 2020
+        <p>
+        <b>Time:</b> 9:00-10:30 AM
+        <p>
+        <b>Location:</b> Main Street - Downtown (Ticket Required)
+        <p>
+        Schedule:
+        <p>
+        Mock Convention state delegations line up along Main Street with floats decorated to mirror
+        their state and decked out to match their delegation\’s energy. Past parades have featured
+        live elephants and hot tubs, so keep an eye out for this year\'s excitement!
+        <p>
+        Explore the parade route in the general information section so you don’t miss a second of
+        the fun.
+        ]]>
+    </string>
+
+
+    <string name="session1_blurb">
+        <![CDATA[
+        <b>Date:</b> Feb. 14, 2020
+        <p>
+        <b>Time:</b> 1:30-4:00 PM
+        <p>
+        <b>Location:</b> Duchossois Tennis Center (Ticket Required)
+        <p>
+        Schedule:
+        <p>
+        <b>DOORS OPEN:</b> 12:30 PM
+        <p>
+        <b>SESSION START:</b> 1:30 PM
+        <p>
+        Join us for the opening of Convention Weekend 2020. We will be voting in the rules and welcome
+        our first speakers to the stage, including Joe Donnelly and Symone Sanders.
+        <p>
+        <b>SPEAKER ONE: JOE DONNELLY</b>
+        <p>
+        Joe Donnelly served on Capitol Hill for 12 years, including one term as a U.S. Senator and
+        three terms as a U.S. Representative. While in the Senate, Donnelly served on a number of
+        committees, including the Banking, Housing, and Urban Affairs Committee. He also served on
+        the Special Committee on Aging.
+        <p>
+        <b>SPEAKER TWO: SYMONE SANDERS</b>
+        <p>
+        A champion for women, Symone D. Sanders is a strategist, communications consultant, and CNN
+        political commentator. She also served as a Spring 2018 Resident Fellow at Harvard\’s
+        Institute of Politics at the Kennedy School. Symone rose to prominence during her tenure as
+        the National Press Secretary for U.S. Senator Bernie Sanders’ 2016 presidential campaign.
+        ]]>
+    </string>
+
+    <string name="session2_blurb">
+        <![CDATA[
+        <b>Date:</b> Feb. 14, 2020
+        <p>
+        <b>Time:</b> 6:00-9:00 PM
+        <p>
+        <b>Location:</b> Duchossois Tennis Center (Ticket Required)
+        <p>
+        Schedule:
+        <p>
+        <b>DOORS OPEN:</b> 5:00 PM
+        <p>
+        <b>SESSION START:</b> 6:00 PM
+        <p>
+        Session two re-opens the Convention and welcomes more exciting speakers to the stage,as well
+        as student features.
+        <p>
+        <b>SPEAKER ONE: NADINE STROSSEN</b>
+        <p>
+        Nadine Strossen was the first female president of the American Civil Liberties Union and is
+        a lead-ing expert in constitutional law and human rights. A frequent media commentator, she
+        has been published widely in both academic and general interest publications. Her 2018 book,
+        HATE: Why We Should Resist it With Free Speech, Not Censorship, has earned praise from
+        ideologically diverse experts.
+        <p>
+        <b>SPEAKER TWO: PATTI SOLIS DOYLE</b>
+        <p>
+        Patti Solis Doyle is a nationally recognized political organizer, campaign strategist and
+        CNN political commentator. She speaks regularly on the rise of women and minorities in
+        politics, presidential campaigns and issues affecting Hispanic Americans.
+        ]]>
+    </string>
+
+    <string name="session3_blurb">
+        <![CDATA[
+        <b>Date:</b> Feb. 15, 2020
+        <p>
+        <b>Time:</b> 10:00-1:00 PM
+        <p>
+        <b>Location:</b> Duchossois Tennis Center (Ticket Required)
+        <p>
+        Schedule:
+        <p>
+        <b>DOORS OPEN:</b> 9:00 AM
+        <p>
+        <b>SESSION START:</b> 10:00 AM
+        <p>
+        The start to the final day of Convention Weekend kicks off with a message from our General
+        Chair and concludes with more engaging speakers.
+        <p>
+        <b>SPEAKER ONE DONNA BRAZILE</b>
+        <p>
+        Veteran political strategist Donna Brazile is the former interim Chair of the Democratic
+        National Committee (DNC). She has devoted her life to working for progressive change,
+        responsible governance, and the advancement of all people in a society that is fair and equitable.
+        <p>
+        <b>SPEAKER TWO CAMERON KASKY</b>
+        <p>
+        Cameron Kasky is the co-founder of March For Our Lives and a survivor of the deadliest high
+        school shooting in United States\’ history. His hopeful response in the face of national
+        tragedy has made him a voice for his generation, issuing a wakeup call to those in positions
+        of authority. It catapulted him onto the national political stage, where he speaks to all
+        who will listen about the mechanisms of change and the tools of social justice.
+        <p>
+        <b>SPEAKER THREE TREVOR NOAH</b>
+        <p>
+        Trevor Noah is the new voice of American politics. An award-winning comedian, host of
+        “The Daily Show,” and insightful political commentator, Noah has a discerning voice on the
+        2020 stage. In April 2018, Noah launched The Trevor Noah Foundation, a youth development
+        initiative that enhances youth preparedness for higher education and entry into the workforce.
+        ]]>
+    </string>
+
+
+    <string name="session4_blurb">
+        <![CDATA[
+         <b>Date:</b> Feb. 15, 2020
+        <p>
+        <b>Time:</b> 3:00-7:00 PM
+        <p>
+        <b>Location:</b> Duchossois Tennis Center (Ticket Required)
+        <p>
+        Schedule:
+        <p>
+        <b>DOORS OPEN:</b> 2:00 PM
+        <p>
+        <b>SESSION START:</b> 3:00 PM
+        <p>
+        The final session of Convention Weekend features the roll call vote, a final address from
+        Andrew Gillum, and the Convention\’s prediction for the Democratic nominee. Join us for the
+        exciting conclusion to four years of research and for the most accurate predictive convention
+        in the country.
+        <p>
+        <b>SPEAKER ONE ANDREW GILLUM</b>
+        <p>
+        A champion for everyday people, Andrew Gillum inspired millions across Florida and the nation
+        in 2018. He surged past four higher-polling primary candidates to a victory as the Florida
+        Democratic Party\’s first African-American nominee for governor. A lifelong public servant,
+        Andrew Gillum is recognized across Florida and the nation as a bold and inspirational leader.
+        In January of 2019, Gillum joined CNN as a Political Commentator.
+        ]]>
+    </string>
+
+    <string name="politics_in_media_blurb">
+        <![CDATA[
+         <b>Date:</b> Feb. 13, 2020
+        <p>
+        <b>Time:</b> 7:00-8:30 PM
+        <p>
+        <b>Location:</b> Keller Theater - Lenfest (Ticket Required)
+        <p>
+        Schedule:
+        <p>
+        Mock Con 2020 is proud to present the Politics & Media Panel featuring leaders in the field
+        of Political Media, Journalism, and Communications as they talk about the role of the media
+        in the 2020 Presidential election. This event marks the beginning of the four-day process
+        that is the Washington & Lee Mock Convention.
+        <p>
+        Jim Acosta is CNN chief White House correspondent, currently covering the Trump administration
+        and previously covered the Obama administration from the White House and around the world.
+        He regularly covers presidential press conferences, visits by heads of states, and issues
+        impacting the Executive Branch of the federal government. In addition, Acosta reported from
+        the 2016 campaign trail following Republican presidential candidate Donald Trump.
+        <p>
+        Tara McGowan is the Founder and CEO of progressive group ACRONYM, which recently launched a
+        $75 million digital effort to counter Trump online. A longtime Democratic strategist, Tara
+        McGowan has quickly become the leading voice on digital politics on the Left. She\’s
+        regularly featured in major print outlets, and she has spoken about the 2020 digital race
+        for the White House with on NPR and CNN.
+        <p>
+        Mike Allen is one of Washington\’s most influential and well-connected journalists. He is
+        the co-founder and executive editor of Axios, a company delivering news and insights on
+        politics, business, media, and tech. The company specializes in high-quality news and
+        analysis easily shared among the country\’s influential readers and across social platforms.
+        In addition to starting Axios, Allen was a co-founder at POLITICO, the media company that
+        upended and revolutionized political and policy journalism.
+        <p>
+        Errin Haines is editor-at-large at The 19th, a nonprofit newsroom covering politics and
+        centering on women. Haines is an award-winning journalist whose previous experience includes
+        reporting at The Associated Press, The Washington Post, The Orlando Sentinel and The Los
+        Angeles Times. Currently, Errin is focused on covering the intersections of race, gender and
+        the 2020 election. She is a frequent commentator on the election, appearing on news outlets
+        such as CNN, MSNBC, CBS and NPR.
+        <p>
+        William Roberts is a senior producer for Al Jazeera in Washington, DC, and covered the
+        impeachment of President Trump for the global news organization. Roberts is a veteran journalist
+        who has written about national politics since 1994 and covered Congress, the White House and
+         the Pentagon. He is a 1983 graduate of W&L with a BA in Journalism.
+        ]]>
+    </string>
+
+
+</resources>
+
